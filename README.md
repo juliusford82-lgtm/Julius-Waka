@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I focus on security operations, threat detection, 
 
 ## 🚀 About Me
 
-- 🔭 I currently work with / explore: **SIEM**
+- 🔭 I currently work with / explore: **10Alytics**
 - 🌱 Current focus: **Exploring ethical hacking and penetration testing**
 - 💬 Ask me about: security monitoring, incident response basics, and SIEM workflows
 - ⚙️ Tools & technologies: `SIEM` (add more tools here like Splunk, ELK, Azure Sentinel, Wireshark, etc.)
